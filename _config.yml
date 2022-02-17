@@ -2,7 +2,7 @@ title: Croissant Coder Blog
 author: Janos Sarusi-Kis
 email: janos.sarusikis@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog about baking, cooking, croissants, breads, coding, and my game developer journey with Unity.
+  Personal blog about croissants, breads, coding, baking, cooking and stuff.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
@@ -11,3 +11,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+plugins:
+  - jekyll-seo-tag
