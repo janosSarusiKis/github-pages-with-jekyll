@@ -14,3 +14,5 @@ theme: minima
 
 url: 'http://www.croissantcoder.com' # your main domain
 baseurl: ''
+
+google_analytics: G-94L8M789TD
