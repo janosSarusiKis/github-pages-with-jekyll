@@ -11,3 +11,6 @@ github_username:  janosSarusiKis
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+url: 'http://www.croissantcoder.com' # your main domain
+baseurl: ''

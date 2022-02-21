@@ -62,7 +62,7 @@ Take them out and try not the give into the temptation to grab one as soon as po
 
 Wait for them to cool a little bit. 
 Make yourself a good coffee or pour out a glass of milk (or both) and enjoy your fresh croissants. With this start, your day must be awesome. 
-![croissant](../assets/images/basic-croissant.jpg)
+![croissant](/assets/images/basic-croissant.jpg)
 
 Thanks for baking with me and reading the recipe. I hope you had a great experience and this will kickstart your croissant making carrier. 
 In the future, I will add additional croissant and pastry recipes and explain technics with a bit more detail and add more complexity and even create some pictures where I am the one representing the different methods.
