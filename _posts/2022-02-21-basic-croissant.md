@@ -1,7 +1,7 @@
 ---
 title: "Basic croissant recipe"
 date: 2022-02-21
-categories: recipe, croissant, pastry, laminated
+categories: recipes
 layout: post
 ---
 
